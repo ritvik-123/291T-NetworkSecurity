@@ -1,0 +1,11 @@
+# Ignore text files
+*.txt
+
+# Ignore images
+*.png
+
+# Ignore Word documents
+*.docx
+
+# Ignore PDFs
+*.pdf
