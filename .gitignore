@@ -9,3 +9,6 @@
 
 # Ignore PDFs
 *.pdf
+
+# Ignore ZIP
+*.zip
